@@ -1,0 +1,15 @@
+{
+  "name": "@kvcvc/isic",
+  "version": "1.0.0",
+  "description": "ISIC Check API SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "follow-redirects": "^1.13.2"
+  },
+  "author": "Kovačević Marko",
+  "license": "MIT"
+}
