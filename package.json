@@ -1,7 +1,7 @@
 {
   "name": "@kvcvc/isic",
-  "version": "1.0.1",
-  "description": "Verify ISIC/ITIC/ALIVE cards and manage discount usage",
+  "version": "1.0.2",
+  "description": "DiscountManager API client",
   "main": "index.js",
   "directories": {
     "lib": "lib",
