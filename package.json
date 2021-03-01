@@ -4,7 +4,8 @@
   "description": "ISIC Check API SDK",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "docs": "docs"
   },
   "dependencies": {
     "axios": "^0.21.1",
