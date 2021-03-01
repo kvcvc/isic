@@ -1,7 +1,7 @@
 {
   "name": "@kvcvc/isic",
-  "version": "1.0.0",
-  "description": "ISIC Check API SDK",
+  "version": "1.0.1",
+  "description": "Verify ISIC/ITIC/ALIVE cards and manage discount usage",
   "main": "index.js",
   "directories": {
     "lib": "lib",
