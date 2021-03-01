@@ -1,6 +1,6 @@
 # isic
 
-[![Version](https://img.shields.io/npm/v/kvcvc/isic)](https://img.shields.io/npm/v/kvcvc/isic)
+[![Version](https://img.shields.io/npm/v/@kvcvc/isic)](https://img.shields.io/npm/v/@kvcvc/isic)
 
 ISIC Discount Manager client implementation allowing you to verify ISIC/ITIC/ALIVE cards and report or revoke discount usage in Node.js. More information about the ISIC Check API including requirements and official documentation can be found [here](https://isiccheck.cz/api-isic-check/).
 
