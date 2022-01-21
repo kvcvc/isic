@@ -30,10 +30,19 @@ const client = new DiscountManagerClient(
 client
   .verifyCard('S420001019431J', 'Janička Testová')
   .then((res) => {
-    // use res.data
+    /* {
+      id: 3215481, 
+      createdOn: '2022-01-01T08:00:00+00:00',
+      cardNumber: 'S420001019431J',
+      cardholderName: 'Janička Testová',
+      mode: 'CARDHOLDER',
+      result: 'FAILED',
+      reason: 'CARD_EXPIRED',
+      cardType: 'ISIC'
+    } */
   })
   .catch((err) => {
-    // handle error
+    // DiscountManagerClientException: Invalid credentials specified
   });
 ```
 

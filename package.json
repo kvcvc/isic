@@ -1,6 +1,6 @@
 {
   "name": "@kvcvc/isic",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "DiscountManager API client",
   "main": "index.js",
   "directories": {
